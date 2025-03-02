@@ -1,5 +1,4 @@
 public class MathLibraryDemo {
-}
     public static void main(String[] args) {
 double base = 2;
 int exponent = 3;
